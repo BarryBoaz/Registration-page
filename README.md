@@ -1,2 +1,2 @@
 # Registration-page
-simple registration using html and csss
+simple registration page using html and csss
